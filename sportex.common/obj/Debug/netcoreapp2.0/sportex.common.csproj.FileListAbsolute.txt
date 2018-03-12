@@ -1,0 +1,9 @@
+C:\Users\ignac\tesis\sportex-common\sportex.common\bin\Debug\netcoreapp2.0\sportex.common.deps.json
+C:\Users\ignac\tesis\sportex-common\sportex.common\bin\Debug\netcoreapp2.0\sportex.common.dll
+C:\Users\ignac\tesis\sportex-common\sportex.common\bin\Debug\netcoreapp2.0\sportex.common.pdb
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.csprojResolveAssemblyReference.cache
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.csproj.CoreCompileInputs.cache
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.AssemblyInfoInputs.cache
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.AssemblyInfo.cs
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.dll
+C:\Users\ignac\tesis\sportex-common\sportex.common\obj\Debug\netcoreapp2.0\sportex.common.pdb
